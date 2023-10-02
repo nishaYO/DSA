@@ -6,5 +6,6 @@ Welcome to my DSA learning journey! 🚀 Here, I share solutions to basic and im
 - Searching
 - Sorting
 - String Manipulation
+- Recursion
 
 Feel free to explore, learn, and contribute! Happy coding! 🌟
