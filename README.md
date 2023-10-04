@@ -6,6 +6,7 @@ Welcome to my DSA learning journey! 🚀 In this repository, I document solution
 - Searching
 - Sorting
 - String Manipulation
+- Patterns
 - Recursion
 - Function Transformation (python)
 
