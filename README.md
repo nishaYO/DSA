@@ -9,5 +9,7 @@ Welcome to my DSA learning journey! 🚀 In this repository, I document solution
 - Patterns
 - Recursion
 - Function Transformation (python)
+- Complexity (notes)
+- Basics of Java 
 
 Feel free to explore, learn, and contribute! Happy coding! 🌟
